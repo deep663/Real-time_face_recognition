@@ -1,4 +1,4 @@
-# Face Recognition
+# Real Time Face Recognition
 
 This project demonstrates face recognition using the `face_recognition` library in Python. It includes two code snippets: one for face recognition with an image and another for real-time face recognition with a webcam. Both snippets utilize the `face_recognition` library to detect faces, match them with known faces, and mark them with rectangles and names.
 
